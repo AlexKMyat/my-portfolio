@@ -1,0 +1,24 @@
+<section id="projects">
+    <h2>My Projects</h2>
+
+    <div class="project">
+        <img src="images/project1.jpg" alt="Project 1">
+        <h3>Unilever Brand Campaign</h3>
+        <p>Managed and executed campaigns for brands like Pond’s, Dove, and Vaseline.</p>
+        <a href="https://www.facebook.com/PondsMyanmar/videos/716599865814578/" target="_blank">View Project</a>
+    </div>
+
+    <div class="project">
+        <img src="images/project2.jpg" alt="Project 2">
+        <h3>Samsung Galaxy S20 Launch</h3>
+        <p>Organized a product launch event and commercial shoot for Samsung.</p>
+        <a href="https://www.facebook.com/share/v/1GeA7veZmr/" target="_blank">View Project</a>
+    </div>
+
+    <div class="project">
+        <img src="images/project3.jpg" alt="Project 3">
+        <h3>KFC & KBZPay Campaigns</h3>
+        <p>Worked on promotional campaigns for KFC and KBZPay Mobile E-Wallet.</p>
+        <a href="https://www.facebook.com/zproductions.co/videos/305061347487175/" target="_blank">View Project</a>
+    </div>
+</section>
