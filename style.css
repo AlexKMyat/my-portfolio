@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f9fa;
+}
+
+#projects {
+    text-align: center;
+    padding: 50px;
+}
+
+.project {
+    display: inline-block;
+    width: 300px;
+    margin: 20px;
+    text-align: left;
+}
+
+.project img {
+    width: 100%;
+    border-radius: 8px;
+}
+
+.project h3 {
+    font-size: 18px;
+    margin: 10px 0;
+}
+
+.project p {
+    font-size: 14px;
+}
+
+.project a {
+    display: inline-block;
+    padding: 8px 12px;
+    background: #007bff;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.project a:hover {
+    background: #0056b3;
+}
